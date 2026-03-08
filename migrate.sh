@@ -61,7 +61,6 @@ migrate_to_uv() {
 set -e
 
 
-
 # Check for reqs
 if [ ! -f "requirements.txt"]; then
 
